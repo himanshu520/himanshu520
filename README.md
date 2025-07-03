@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Himanshu Sharma
 
-![Profile views](https://komarev.com/ghpvc/?username=himanshusharma121106&label=Profile%20views&color=0e75b6&style=flat)
-
 ## 🧑‍💻 Java Developer | Spring Boot • MySQL • Git  
 🎓 CSE Student @ NGF College (J.C. Bose University, YMCA)  
 📍 Hodal, Haryana, India  
