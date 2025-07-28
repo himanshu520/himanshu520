@@ -4,7 +4,7 @@
 🎓 CSE Student @ NGF College (J.C. Bose University, YMCA)  
 📍 Hodal, Haryana, India  
 📫 Email: himanshusharma121106@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/your-linkedin/) • [GitHub](https://github.com/himanshusharma121106)
+🔗 [LinkedIn](https://www.linkedin.com/in/himanshu-sharma-856479253/) • [GitHub](https://github.com/himanshusharma121106)
 
 ---
 
