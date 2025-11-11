@@ -1,59 +1,85 @@
-# 👋 Hi, I'm Himanshu Sharma
+<!-- Hi there 👋 I'm Himanshu Sharma -->
+<h1 align="center">Hi 👋, I'm Himanshu Sharma</h1>
+<h3 align="center">Java Backend Developer | AWS Cloud & Linux Enthusiast</h3>
 
-## 🧑‍💻 Java Developer | Spring Boot • MySQL • Git  
-🎓 CSE Student @ NGF College (J.C. Bose University, YMCA)  
-📍 Hodal, Haryana, India  
-📫 Email: himanshusharma121106@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/himanshu-sharma-856479253/) • [GitHub](https://github.com/himanshusharma121106)
+<p align="center">
+  <a href="https://himanshusharma.me" target="_blank">🌐 Portfolio</a> •
+  <a href="https://linkedin.com/in/himanshu-sharma-856479253" target="_blank">💼 LinkedIn</a> •
+  <a href="https://github.com/himanshu520" target="_blank">🐙 GitHub</a>
+</p>
 
 ---
 
-### 💡 About Me
+### 🚀 About Me  
+💻 Passionate and detail-oriented **Computer Science Engineering student (2022–2026)**  
+☕ Hands-on experience in **Java Backend Development**, **AWS Cloud**, and **Linux System Administration**  
+🧠 I love building **scalable web apps** and exploring **Cloud + DevOps technologies**
 
-I’m a passionate backend developer with a strong foundation in Java and Spring Boot. Currently pursuing my B.Tech in Computer Science at NGF College of Engineering & Technology, affiliated with **J.C. Bose University of Science and Technology, YMCA**.
+---
 
-### 🚀 What I'm Working On
-- Developing RESTful APIs with **Spring Boot**
-- Building personal and collaborative projects
-- Enhancing MySQL and database management skills
-- Contributing to open-source and learning Agile workflows
+### 🔧 Tech Stack
+#### 🚀 Programming & Frameworks
+- **Languages:** Java, C  
+- **Frameworks:** Spring Boot, Express.js, Node.js, React.js, Bootstrap  
 
-### 🧠 Skills & Technologies
-- **Languages:** Java, HTML, CSS, JavaScript
-- **Frameworks:** Spring Boot
-- **Tools:** Git, GitHub, IntelliJ, VS Code
-- **Databases:** MySQL
-- **Others:** REST APIs, OOPs, Agile Methodology
+#### 🗄️ Database & Cloud
+- **Databases:** MySQL, JDBC  
+- **Cloud:** AWS (EC2, S3, IAM, VPC, CloudWatch, Load Balancer)  
+
+#### ⚙️ Tools & Systems
+- **Version Control:** Git, GitHub  
+- **Operating Systems:** Linux Administration  
+- **Other Tools:** Postman, Nginx, Docker (Learning), Terraform (Learning)
+
+---
 
 ### 💼 Experience
-**Web Developer Intern**  
-*CodSoft (Aug 2024 – Nov 2024, Remote)*  
-- Built responsive web pages using HTML, CSS & JavaScript  
-- Integrated front-end with backend APIs  
-- Collaborated on GitHub in Agile environment
-
-### 📚 Education
-**B.Tech, Computer Science (2022 – 2026)**  
-NGF College of Engineering & Technology  
-Affiliated with J.C. Bose University of Science & Technology, YMCA
+**Cloud & Linux Systems Trainee** — TBCE Solutions *(6 Months)*  
+- Managed AWS EC2, S3, IAM, and VPC resources  
+- Configured load balancing, autoscaling, and network security  
+- Automated server monitoring using CloudWatch  
+- Administered Linux systems, SSH, and virtualization tools (VMware, VirtualBox)
 
 ---
 
-### 🌱 Open To
-- Software/Backend Development Internships
-- Collaborative Projects
-- Networking with Tech Enthusiasts
+### 🧩 Projects
+
+#### 🧠 [YouTube SEO SaaS Tool](https://github.com/himanshu520/Java-Saas-project)
+A full-stack SEO optimization tool for YouTube creators.  
+- Built using **Java (Spring Boot)**, **Thymeleaf**, **Tailwind CSS**, and **YouTube Data API v3**  
+- Fetches and analyzes video metadata and tags for SEO insights  
+- **Tech Stack:** Java, Spring Boot, MySQL, YouTube API, Tailwind CSS  
+
+#### ⚙️ [Employee Management REST API](https://github.com/himanshu520)
+A RESTful API for employee record management.  
+- Built with **Spring Boot**, integrated with **MySQL**, and deployed on **AWS EC2**  
+- Configured **Nginx reverse proxy** and tested APIs with **Postman**  
+- **Tech Stack:** Java, Spring Boot, MySQL, AWS EC2, Nginx, Git  
 
 ---
 
-### 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=himanshusharma121106&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshusharma121106&layout=compact&theme=tokyonight)
+### 🏆 Achievements
+- Completed 6-month hands-on training in **AWS Cloud & Linux Administration**  
+- Built and hosted a personal portfolio: [himanshusharma.me](https://himanshusharma.me)  
+- Exploring **DevOps tools:** Docker, Terraform, Jenkins  
+- Active contributor in **Cloud & Java developer communities**
 
 ---
 
-### ✨ Let's Connect
-> 💬 *"Continuous learning and problem-solving are at the core of my growth as a developer."*  
-Feel free to reach out or connect via LinkedIn or email!
+### 📫 Connect with Me
+<p align="left">
+  <a href="https://linkedin.com/in/himanshu-sharma-856479253" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:himanshusharma121106@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/himanshu520">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github"/>
+  </a>
+</p>
 
+---
+
+### ⚡ Fun Fact
+> “Code, Deploy, Repeat ☕ — I break stuff, then I fix it better.”
